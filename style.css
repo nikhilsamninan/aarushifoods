@@ -202,7 +202,7 @@ section{
     z-index:2;
 }
 .header .navbar{
-    background: url('/images/header-bg.png');
+    background: url("images/header-bg1.png");
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
@@ -261,7 +261,7 @@ section{
 
 /* Banner Section css */
 .banner_section{
-    background: url('/images/banner-slide/Banner-3.jpg');
+    background: url("images/banner-slide/Banner-3.jpg");
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
